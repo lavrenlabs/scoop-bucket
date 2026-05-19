@@ -15,7 +15,7 @@
   },
   "bin": "diaspar.exe",
   "checkver": {
-    "github": "https://github.com/lavrenlabs/diaspar"
+    "github": "https://github.com/lavrenlabs/diaspar-releases"
   },
   "autoupdate": {
     "architecture": {

@@ -6,7 +6,7 @@ Scoop manifests for Lavren Labs command-line tools.
 
 Diaspar is a persistent memory system for AI coding agents.
 
-After the first release that publishes a Scoop manifest, install with:
+Install with:
 
 ```powershell
 scoop bucket add lavrenlabs https://github.com/lavrenlabs/scoop-bucket

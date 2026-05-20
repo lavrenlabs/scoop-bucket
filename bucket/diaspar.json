@@ -2,7 +2,7 @@
   "version": "2.6.0",
   "description": "Persistent memory system for AI coding agents",
   "homepage": "https://github.com/lavrenlabs/diaspar-releases",
-  "license": "Apache-2.0",
+  "license": "Proprietary",
   "architecture": {
     "64bit": {
       "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v2.6.0/diaspar_windows_amd64.zip",

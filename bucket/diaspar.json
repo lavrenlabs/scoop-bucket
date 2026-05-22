@@ -6,14 +6,14 @@
             "bin": [
                 "diaspar.exe"
             ],
-            "hash": "e8707dc37f5c10adaef34332c6bbda40a5190d58c965c952d75ca3f84594af11"
+            "hash": "84f386d89f12a2f7520df2fc376f7415930528439e865165df8cb1784cdac0c3"
         },
         "arm64": {
             "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.0.0/diaspar_windows_arm64.zip",
             "bin": [
                 "diaspar.exe"
             ],
-            "hash": "5b891a1782835953b8c063e4cf24c8b5deb7a882f92c8a6992cc9748b5139e09"
+            "hash": "84f8fa0818da5ef399e59580b518c50551e0ada978674271d4f8081c4c048cb2"
         }
     },
     "homepage": "https://github.com/lavrenlabs/diaspar-releases",

@@ -1,30 +1,22 @@
 {
-  "version": "2.6.0",
-  "description": "Persistent memory system for AI coding agents",
-  "homepage": "https://github.com/lavrenlabs/diaspar-releases",
-  "license": "Proprietary",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v2.6.0/diaspar_windows_amd64.zip",
-      "hash": "b1cce32e2d547ce04f8189273b44f5e2b95d11d445d93d0cc3ee3832dabf9086"
-    },
-    "arm64": {
-      "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v2.6.0/diaspar_windows_arm64.zip",
-      "hash": "12899d58f5531115c7dd8a916ccfabd9f2d7142b4ce0343310c801fa031b15e6"
-    }
-  },
-  "bin": "diaspar.exe",
-  "checkver": {
-    "github": "https://github.com/lavrenlabs/diaspar-releases"
-  },
-  "autoupdate": {
+    "version": "3.0.0",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v$version/diaspar_windows_amd64.zip"
-      },
-      "arm64": {
-        "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v$version/diaspar_windows_arm64.zip"
-      }
-    }
-  }
+        "64bit": {
+            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.0.0/diaspar_windows_amd64.zip",
+            "bin": [
+                "diaspar.exe"
+            ],
+            "hash": "e8707dc37f5c10adaef34332c6bbda40a5190d58c965c952d75ca3f84594af11"
+        },
+        "arm64": {
+            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.0.0/diaspar_windows_arm64.zip",
+            "bin": [
+                "diaspar.exe"
+            ],
+            "hash": "5b891a1782835953b8c063e4cf24c8b5deb7a882f92c8a6992cc9748b5139e09"
+        }
+    },
+    "homepage": "https://github.com/lavrenlabs/diaspar-releases",
+    "license": "Freeware",
+    "description": "Persistent memory system for AI coding agents"
 }

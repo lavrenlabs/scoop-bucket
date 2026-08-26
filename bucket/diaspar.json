@@ -1,19 +1,19 @@
 {
-    "version": "3.11.1",
+    "version": "3.11.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.11.1/diaspar_windows_amd64.zip",
+            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.11.2/diaspar_windows_amd64.zip",
             "bin": [
                 "diaspar.exe"
             ],
-            "hash": "dd0d8fa7adf3d5a23b1b17dff692c9ec56f340123d73c2faf964915b369a2e82"
+            "hash": "33c9fde4eb6fa367b30aa9c504695cb4b54a5175f6250f9ccaaa7329beca7fc7"
         },
         "arm64": {
-            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.11.1/diaspar_windows_arm64.zip",
+            "url": "https://github.com/lavrenlabs/diaspar-releases/releases/download/v3.11.2/diaspar_windows_arm64.zip",
             "bin": [
                 "diaspar.exe"
             ],
-            "hash": "fc8190643f560d09e6e9056b3c6a335b6b0513e34fabb662d13f0d1f7e6b430f"
+            "hash": "3e799ed904dae923bbd8f203dea806bec04f79a00e4557363773ff1db4863078"
         }
     },
     "homepage": "https://github.com/lavrenlabs/diaspar-releases",
